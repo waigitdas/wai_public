@@ -1,0 +1,24 @@
+body.standard {
+	width: auto;
+}
+h2.page_label {
+	color:#2D4F87;
+}
+div.reg {
+	font-size: 60px;
+}
+td.header {
+	color: #2D4F87;
+	font-size: 30px;
+}
+td.subheader {
+	color: #2D4F87;
+	font-size: 16px;
+	font-style: italic;
+	padding-left: 40px;
+	vertical-align: top;
+}
+td.footer {
+	align-items: center;
+}
+p.help-block {display: none;}
